@@ -26,9 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcltop&layout=compact&theme=radical)  
+### 📊 GitHub Stats    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgarcltop&show_icons=true&theme=radical)  
 
 ---
