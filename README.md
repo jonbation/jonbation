@@ -26,11 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgarcltop&show_icons=true&theme=radical)  
-
----
-
 ### 🏆 Achievements  
 - 🐛 Pull Shark (from making PRs)  
 - ⭐ Starstruck (repos with stars)  
