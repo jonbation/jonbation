@@ -23,7 +23,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
----
 
 ## 🧰 Languages and Tools
 
@@ -39,7 +38,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -48,7 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbation&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🔥 Contributions & Streaks
 
@@ -56,17 +53,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonbation&theme=tokyonight"/>
 </p>
 
----
 
 ## ☕ Support Me
 
 <p>
-  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"></a>
+ 
   <a href="https://paypal.me/yourhandle"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
-  <a href="https://patreon.com/yourhandle"><img src="https://img.shields.io/badge/Patreon-EF3A81?style=for-the-badge&logo=patreon&logoColor=white"></a>
-</p>
 
----
+
 
 ## 📌 Pinned Projects
 
