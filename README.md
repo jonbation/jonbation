@@ -1,64 +1,84 @@
-<h1 align="center">Hi there, I'm Jon 👋</h1>
+<!-- Profile Title & Badges -->
+<h1 align="center">Hi, I'm Jon, a Developer 🚀 from [Your Country]</h1>
 
 <p align="center">
-  <em>Mobile Engineer passionate about building cross-platform apps with great UX</em><br>
-  🚀 Goal: Build impactful products in the tech ecosystem
+  <a href="https://github.com/jonbation"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 Talking about Personal Stuffs:
 
-- 📱 **Mobile Engineer** with a love for beautiful, performant applications
-- 🌐 Experienced in building **cross-platform** mobile apps
-- 🎯 Striving to make a difference through thoughtful technology
+- 🔭 I’m currently working on **cross-platform apps** using Flutter & React Native.
+- 🌱 I’m learning more about **system design** and **clean architecture**.
+- 🤝 I’m looking to collaborate on impactful **open-source mobile projects**.
+- 💬 Ask me about **anything** related to mobile engineering or TypeScript!
+- ⚡ Fun Fact: I once shipped a PR with no review and it worked 😎
+- 📫 Reach me at: [you@example.com](mailto:you@example.com)
+
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+</p>
 
 ---
 
-## 🧰 Languages & Frameworks
+## 🧰 Languages and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p>
-  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%90%9F-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/YOLO-%F0%9F%9A%80-orange?style=flat-square"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 Email: you@example.com
-
----
-
-<!-- Optional: Add a profile image -->
-<!-- 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/yourusername" width="150" alt="Jon's profile picture"/>
-</p> 
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=jonbation&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbation&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contributions & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonbation&theme=tokyonight"/>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p>
+  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"></a>
+  <a href="https://paypal.me/yourhandle"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+  <a href="https://patreon.com/yourhandle"><img src="https://img.shields.io/badge/Patreon-EF3A81?style=for-the-badge&logo=patreon&logoColor=white"></a>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<a href="https://github.com/jonbation/your-cool-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbation&repo=your-cool-project&theme=tokyonight" />
+</a>
+<a href="https://github.com/jonbation/another-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbation&repo=another-project&theme=tokyonight" />
+</a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonbation&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
