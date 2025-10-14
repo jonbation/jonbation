@@ -47,11 +47,7 @@
 </p>
 
 
-## 🔥 Contributions & Streaks
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonbation&theme=tokyonight"/>
-</p>
 
 
 ## ☕ Support Me
