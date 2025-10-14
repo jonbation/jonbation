@@ -58,14 +58,7 @@
 
 
 
-## 📌 Pinned Projects
 
-<a href="https://github.com/jonbation/your-cool-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbation&repo=your-cool-project&theme=tokyonight" />
-</a>
-<a href="https://github.com/jonbation/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbation&repo=another-project&theme=tokyonight" />
-</a>
 
 ---
 
