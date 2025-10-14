@@ -1,32 +1,64 @@
-# 👋 Hi, I'm Jon  
+<h1 align="center">Hi there, I'm Jon 👋</h1>
 
-### 🚀 About Me  
-- 💼 Mobile Engineer  
-- 📱 Passionate about building cross-platform apps with great UX  
-- 🎯 Goal: Build impactful products in the tech ecosystem  
-
----
-
-### 🖥️ Languages & Frameworks  
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<p align="center">
+  <em>Mobile Engineer passionate about building cross-platform apps with great UX</em><br>
+  🚀 Goal: Build impactful products in the tech ecosystem
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
+## 🧠 About Me
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- 📱 **Mobile Engineer** with a love for beautiful, performant applications
+- 🌐 Experienced in building **cross-platform** mobile apps
+- 🎯 Striving to make a difference through thoughtful technology
 
 ---
 
-### 🏆 Achievements  
-- 🐛 Pull Shark (from making PRs)  
-- ⭐ Starstruck (repos with stars)  
-- 🚀 YOLO (merged PR without review)  
+## 🧰 Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%90%9F-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/YOLO-%F0%9F%9A%80-orange?style=flat-square"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🌐 [Portfolio](https://your-portfolio.com)
+- 📧 Email: you@example.com
+
+---
+
+<!-- Optional: Add a profile image -->
+<!-- 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/yourusername" width="150" alt="Jon's profile picture"/>
+</p> 
+-->
