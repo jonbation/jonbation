@@ -17,7 +17,7 @@
 - 🤝 I’m looking to collaborate on impactful with any given project
 - 💬 Ask me about **anything** related to mobile engineering & TypeScript!
 - ⚡ Fun Fact: I once shipped a PR with no review and it worked 😎
-- 📫 Reach me at: [you@example.com](mailto:jonbation4@gmail.com)
+- 📫 Reach me at: [jonbation4@gmail.com](mailto:jonbation4@gmail.com)
 
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
