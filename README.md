@@ -46,22 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbation&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-
-
-## ☕ Support Me
-
-<p>
- 
-  <a href="https://paypal.me/yourhandle"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
-
-
-
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jonbation&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
